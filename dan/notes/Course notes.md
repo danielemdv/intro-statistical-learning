@@ -1,3 +1,5 @@
+[toc]
+
 # Course notes
 
 ## Supervised learning
